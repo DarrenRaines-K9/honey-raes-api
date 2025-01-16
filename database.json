@@ -84,7 +84,7 @@
       },
       {
         "id": 4,
-        "fullName": "Windows",
+        "specialty": "Windows",
         "rate": 35.95,
         "userId": 7
       }
