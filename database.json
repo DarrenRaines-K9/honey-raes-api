@@ -37,10 +37,10 @@
         "isStaff": true
       },
       {
+        "id": 7,
         "email": "jeremy@bakker.com",
         "fullName": "Jeremy Bakker",
-        "isStaff": true,
-        "id": 7
+        "isStaff": true
       }
     ],
     "customers": [
